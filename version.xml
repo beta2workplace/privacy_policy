@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>For unit test only</title>
+    <item>
+        <title>Version 1.1.0</title>
+        <sparkle:version>1.1.0</sparkle:version>
+        <sparkle:minimumSystemVersion>1.1.0</sparkle:minimumSystemVersion>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.lekcdi.lekcdi_database" sparkle:version="1.1.0" sparkle:os="android" />
+    </item>
+  </channel>
+</rss>
